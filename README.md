@@ -19,9 +19,23 @@ Courses Completed: 0
 
 ## Catalog
 
+### Khan Academy
+
+* [ ] [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+* [ ] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+* [ ] [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
+### Udacity
+
+* [ ] [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* [ ] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+* [ ] [Deep Learning Foundations Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+* [ ] [Artificial Intelligence Nanodegree](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
+* [ ] [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+* [ ] [Robotics Software Engineering Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)
+
 ### MITOCW Computer Science
 
-* [ ] [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 * [ ] [Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -45,9 +59,7 @@ Courses Completed: 0
 ### MITOCW Mathematics
 
 * [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-* [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 * [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
-* [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * [ ] [Analysis I](https://ocw.mit.edu/courses/mathematics/18-100b-analysis-i-fall-2010/)
 * [ ] [Algebra I](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/)
 * [ ] [Analysis II](https://ocw.mit.edu/courses/mathematics/18-101-analysis-ii-fall-2005/)
