@@ -27,7 +27,6 @@ Courses Completed: 0
 
 ### Udacity
 
-* [ ] [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [ ] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 * [ ] [Deep Learning Foundations Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 * [ ] [Artificial Intelligence Nanodegree](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
