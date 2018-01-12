@@ -11,6 +11,7 @@ Explore my interests in AI and physics while improving my foundational computer 
 ## Progress
 
 Current Course: [Programming Course](https://www.interviewbit.com/courses/programming/)
+
 Courses Completed: 0
 
 | Date Finished | Activity                  | Links                                                                                                         |
