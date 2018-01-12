@@ -10,7 +10,7 @@ Explore my interests in AI and physics while improving my foundational computer 
 
 ## Progress
 
-Current Course: -  
+Current Course: [Programming Course](https://www.interviewbit.com/courses/programming/)
 Courses Completed: 0
 
 | Date Finished | Activity                  | Links                                                                                                         |
@@ -18,6 +18,10 @@ Courses Completed: 0
 |               |                           |                                                                                                               |
 
 ## Catalog
+
+### InterviewBit
+
+* [ ] __Currently in Progress -__ [Programming Course](https://www.interviewbit.com/courses/programming/)
 
 ### Khan Academy
 
@@ -104,7 +108,7 @@ Courses Completed: 0
 
 ### Computer Science, Programming, and Software Engineering
 
-* [ ] Data Structures and Algorithms in C++ -- Adam Drozdek -- 4th Edition
+* [ ] __Currently in Progress -__ Data Structures and Algorithms in C++ -- Adam Drozdek -- 4th Edition
 * [ ] The Algorithm Design Manual -- Steven S. Skiena -- 2nd Edition
 * [ ] Competitive Programming 3 -- Steve & Felix Halim
 * [ ] Elements of Programming Interviews -- Adnan Aziz, Amit Prakash, Tsung-Hsien Lee
