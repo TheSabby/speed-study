@@ -110,7 +110,7 @@ Courses Completed: 0
 ### Computer Science, Programming, and Software Engineering
 
 * [ ] __Currently in Progress -__ Data Structures and Algorithms in C++ -- Adam Drozdek -- 4th Edition
-* [ ] Clean Code: A Handbook of Agile Software Craftsmanship
+* [ ] Clean Code: A Handbook of Agile Software Craftsmanship -- Robert C. Martin
 * [ ] The Algorithm Design Manual -- Steven S. Skiena -- 2nd Edition
 * [ ] Competitive Programming 3 -- Steve & Felix Halim
 * [ ] Elements of Programming Interviews -- Adnan Aziz, Amit Prakash, Tsung-Hsien Lee
